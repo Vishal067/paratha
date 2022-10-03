@@ -1,3 +1,7 @@
-# Pizza Store in React 🍕 🍕 🍕
+## Task
+### To use this project
 
-[View demo](https://pizzastore21.web.app/)
+1. Clone this repository
+2. Run `npm install`
+3. Run `npm start`
+4. Open `http://localhost:3000` in your browser
